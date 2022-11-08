@@ -13,6 +13,7 @@ import (
 	"strings"
 )
 
+// ABS Values
 var (
 	samplesPerMicrosec = 2
 	thAmpDiff          = 0.8
